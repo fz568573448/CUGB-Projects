@@ -1,0 +1,15 @@
+CACHE MANIFEST
+#TIMES 16
+./css/bootstrap.min.css
+./css/login.css
+./css/selection.css
+./css/table.css
+./js/bootstrap.min.js
+./js/createtable.js
+./js/function.js
+./js/jquery-1.11.2.min.js
+./js/npm.js
+./index.php
+
+NETWORK:
+*

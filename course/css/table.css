@@ -1,0 +1,54 @@
+table {
+    border:1px solid #DDDDDD;
+    margin:auto;
+}
+td {
+    border:1px solid #DDDDDD;
+    /*color:white;*/
+    text-align:center;
+}
+.col0 {
+    background-color:LightBlue;
+}
+.col1 {
+    background-color:LightCoral;
+}
+.col2 {
+    background-color:LightGreen;
+}
+.col3 {
+    background-color:LightPink;
+}
+.col4 {
+    background-color:Orange;
+}
+.col5 {
+    background-color:LightSalmon;
+}
+.col6 {
+    background-color:LightSkyBlue;
+}
+.col7 {
+    background-color:Plum;
+}
+.col8 {
+    background-color:BurlyWood;
+}
+.col9 {
+    background-color:HotPink;
+}
+.col10 {
+    background-color:IndianRed;
+}
+.col11 {
+    background-color:LimeGreen;
+}
+.col12 {
+    background-color:GreenYellow;
+}
+.col13 {
+    background-color:Peru;
+}
+.col14 {
+    background-color:Plum;
+}
