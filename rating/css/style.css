@@ -1,0 +1,80 @@
+body {
+  padding-top: 40px;
+  padding-bottom: 40px;
+  background-color: #eee;
+}
+
+.main {
+    width: 80%;
+    margin: auto;
+}
+
+.info {
+    width: 49%;
+    float: left;
+    margin-right: 5px;
+    font-weight: bold;
+}
+
+.level1 {
+    color: #9E9E9E;
+}
+.level2 {
+    color: #8BC34A;
+}
+.level3 {
+    color: #4CAF50;
+}
+.level4 {
+    color: #00BCD4;
+}
+.level5 {
+    color: #3F51B5;
+}
+.level6 {
+    color: #9C27B0;
+}
+.level7 {
+    color: #FF9800;
+}
+.level8 {
+    color: #F06292;
+}
+.level9 {
+    color: #FF0000;
+}
+
+.user-red {
+    color: red !important;
+}
+.user-fire {
+    color: red !important;
+}
+.user-yellow {
+    color: #bb0 !important;
+}
+.user-violet {
+    color: #a0a !important;
+}
+.user-orange {
+    color: #FF8C00 !important;
+}
+.user-blue {
+    color: blue !important;
+}
+.user-cyan {
+    color: #03A89E !important;
+}
+.user-green {
+    color: green !important;
+}
+.user-gray {
+    color: gray !important;
+}
+.user-admin {
+    color: black !important;
+}
+
+.none {
+    color: black;
+}
